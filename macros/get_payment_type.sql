@@ -1,0 +1,1 @@
+{# This macro returns the description on the payment type #}

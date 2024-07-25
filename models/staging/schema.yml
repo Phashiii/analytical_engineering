@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+    - name: staging
+      database: promptmebebe
+      schema: ny_taxi
+    
+      tables:
+      - name: green_taxi_data
+      - name: yellow_taxi_data
+
